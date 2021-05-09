@@ -1,0 +1,33 @@
+/* ここからCSSを記述してください。 */
+.w-90 {
+    width: 90%;
+}
+
+.w-15 {
+    width: 15%;
+}
+
+.border-solid {
+    border: solid 1px white;
+}
+
+/* effect */
+.hover {
+    cursor: pointer;
+}
+
+.hover:hover {
+    opacity: 0.9;
+}
+
+.fit {
+    object-fit: cover;
+}
+
+.font0p8rem {
+    font-size: 0.8rem;
+}
+
+.font2rem {
+    font-size: 2rem;
+}
